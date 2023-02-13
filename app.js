@@ -25,4 +25,10 @@ const cardAdj = [
     img: "imagenes/my_3[1]"
   }
 ]
-});
+}];
+
+const cuadricula = document.querySelector(".cuadricula");
+const resultado = document.querySelector("#resultado");
+var cartasEscogidas = [];
+var cartasEscogidasId = [];
+var cartasGanadas = [];
